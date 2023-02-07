@@ -1,6 +1,6 @@
 ## Olá! Me chamo Gabriel
 
-- 👀 Tenho 19 anos 
+- 👀 Tenho 20 anos 
 - 🧩 Estudo ADS
 - 🧑‍💻 Atualmente trabalho com Suporte TI
 
