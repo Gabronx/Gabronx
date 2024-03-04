@@ -4,7 +4,7 @@
 - 🧩 Estudo ADS
 - 🧑‍💻 Atualmente trabalho com Suporte TI
 
-- 🛠 Tech Stack 
+## 🛠 Tech Stack 
 - 💻   PHP 
 - 🌐   HTML | CSS | JavaScript | Bootstrap 
 - 🛢    MySQL | Xampp 
