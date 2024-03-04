@@ -22,7 +22,7 @@
    
    <img align="center" alt="Gabo-CSS" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
    
-   <img align="center" alt="Gabo-PHP" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+   <img align="center" alt="Gabo-PHP" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    
   ##
 
