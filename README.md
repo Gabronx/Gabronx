@@ -4,10 +4,10 @@
 - 🧩 Estudo ADS
 - 🧑‍💻 Atualmente trabalho com Suporte TI
 
-- 🛠 Tech Stack
-💻   PHP
-🌐   HTML | CSS | JavaScript | Bootstrap
-🛢    MySQL | Xampp
+- 🛠 Tech Stack 
+💻   PHP 
+🌐   HTML | CSS | JavaScript | Bootstrap 
+🛢    MySQL | Xampp 
 
 <div align="center">
   <a href="https://github.com/gabronx">
