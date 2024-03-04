@@ -4,6 +4,11 @@
 - 🧩 Estudo ADS
 - 🧑‍💻 Atualmente trabalho com Suporte TI
 
+- 🛠 Tech Stack
+💻   PHP
+🌐   HTML | CSS | JavaScript | Bootstrap
+🛢    MySQL | Xampp
+
 <div align="center">
   <a href="https://github.com/gabronx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabronx&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
