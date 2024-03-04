@@ -7,7 +7,7 @@
 - 🛠 Tech Stack 
 - 💻   PHP 
 - 🌐   HTML | CSS | JavaScript | Bootstrap 
--🛢    MySQL | Xampp 
+- 🛢    MySQL | Xampp 
 
 <div align="center">
   <a href="https://github.com/gabronx">
