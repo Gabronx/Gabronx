@@ -37,19 +37,18 @@
    <a href="https://www.linkedin.com/in/fabio-gabriel-11b495225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <br>
-<a href="https://twitter.com/TheTweetOfSKR">
-  <img align="left" alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/imskr/">
-  <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://twitter.com/straingabo">
+  <img align="left" alt="straingabo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://imskr.medium.com">
-  <img align="left" alt="Shubham's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+<a href="https://www.linkedin.com/in/fabio-gabriel-11b495225/">
+  <img align="left" alt="Fabio Gabriel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.buymeacoffee.com/imskr">
-  <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
+
+<a href="https://instagram.com/straingabo">
+  <img align="left" alt="Straingabo's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
+
 <a href="https://gitlab.com/imskr">
   <img align="left" alt="Shubham Kumar | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
