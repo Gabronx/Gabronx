@@ -49,8 +49,8 @@
   <img align="left" alt="Straingabo's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 
-<a href="https://gitlab.com/imskr">
-  <img align="left" alt="Shubham Kumar | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+<a href="https://gmail.com/mailto:fabiogabriel.sonic@gmail.com">
+  <img align="left" alt="straingabo | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 </div>
