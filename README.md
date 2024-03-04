@@ -33,7 +33,7 @@
 
 
   
-<div align-itens="center">  
+<div align="center">  
 <a href="https://twitter.com/straingabo" target="_blank">
   <img align="left" alt="straingabo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
