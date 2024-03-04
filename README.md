@@ -19,7 +19,7 @@
 
    <img align="center" alt="Gabo-PHP"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-   <img align="center" alt="Gabo-PHP"  width="550" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+   <img align="center" alt="Gabo-PHP"  width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
    
    <img align="center" alt="Gabo-Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
        
