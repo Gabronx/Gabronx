@@ -1,8 +1,8 @@
-## Olá! Me chamo Gabriel
+## 🤟 Hello! I'm Gabriel
 
-- 👀 Tenho 20 anos 
-- 🧩 Estudo ADS
-- 🧑‍💻 Atualmente trabalho com Suporte TI
+- 👀 I'm 20 years old 
+- 🧩 ADS Study
+- 🧑‍💻 I currently work with IT Support 
 
 ## 🛠 Tech Stack 
 - 💻   PHP 
