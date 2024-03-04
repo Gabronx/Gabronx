@@ -34,18 +34,18 @@
 
   
 <div align="center">  
-<a href="https://twitter.com/straingabo" target="_blank">
-  <img align="left" alt="straingabo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/fabio-gabriel-11b495225/" target="_blank">
-  <img align="left" alt="Fabio Gabriel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://instagram.com/straingabo" target="_blank">
-  <img align="left" alt="Straingabo's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
-</a>
-<a href="https://gmail.com/mailto:fabiogabriel.sonic@gmail.com" target="_blank">
-  <img align="left" alt="straingabo | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  <a href="https://twitter.com/straingabo" target="_blank">
+    <img align="left" alt="straingabo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/fabio-gabriel-11b495225/" target="_blank">
+    <img align="left" alt="Fabio Gabriel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://instagram.com/straingabo" target="_blank">
+    <img align="left" alt="Straingabo's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+  </a>
+  <a href="https://gmail.com/mailto:fabiogabriel.sonic@gmail.com" target="_blank">
+    <img align="left" alt="straingabo | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
 </div>
    
   
