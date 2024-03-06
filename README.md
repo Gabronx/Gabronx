@@ -32,8 +32,7 @@
 ## *Design*
 I like creating design, templates, flyers, image/video editing
 
-- Adobe Photoshop
-- Adobe Illustrator
+- Adobe Photoshop | Illustrator
 - Figma
 - Behance
 
