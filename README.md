@@ -25,10 +25,9 @@
 •
   <img align="center" alt="Logo-Behance" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
 •
-  <img align="center" alt="Logo-Illustrator" width="35
-  px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+  <img align="center" alt="Logo-Illustrator" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 •
-  <img align="center" alt="Logo-Photoshop" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img align="center" alt="Logo-Photoshop" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 •
   <img align="center" alt="Logo-Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
