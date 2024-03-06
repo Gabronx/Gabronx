@@ -20,13 +20,13 @@
 
    <img align="center" alt="Gabo-PHP"  width="76" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 •
-   <img align="center" alt="Gabo-PHP"  width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+   <img align="center" alt="Logo-Bootstrap"  width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
 •
-   <img align="center" alt="Gabo-Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+   <img align="center" alt="Logo-JS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 •
-   <img align="center" alt="Gabo-HTML"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img align="center" alt="Logo-HTML5"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 •
-   <img align="center" alt="Gabo-CSS"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+   <img align="center" alt="Logo-CSS3"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
    
   
 
@@ -40,7 +40,12 @@ I like creating design, templates, flyers, image/video editing
 - Figma
 - Behance
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="center" alt="Logo-Behance" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
+<img align="center" alt="Logo-Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+<img align="center" alt="Logo-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="center" alt="Logo-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
+
           
   
 <center>  
