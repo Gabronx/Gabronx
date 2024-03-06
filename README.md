@@ -40,10 +40,10 @@ I like creating design, templates, flyers, image/video editing
 - Figma
 - Behance
 
-<img align="center" alt="Logo-Behance" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
-<img align="center" alt="Logo-Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-<img align="center" alt="Logo-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img align="center" alt="Logo-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="center" alt="Logo-Behance" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
+<img align="center" alt="Logo-Illustrator" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+<img align="center" alt="Logo-Photoshop" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="center" alt="Logo-Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
 
           
