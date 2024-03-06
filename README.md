@@ -22,17 +22,7 @@
    <img align="center" alt="Logo-HTML5"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 •
    <img align="center" alt="Logo-CSS3"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-   
-  
-## *Design*
-I like creating design, templates, flyers, image/video editing
-
-- Adobe Photoshop | Illustrator
-- Figma
-- Behance
-
- <div style="display: inline_block"><br>
-
+•   
   <img align="center" alt="Logo-Behance" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
 •
   <img align="center" alt="Logo-Illustrator" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
@@ -40,6 +30,8 @@ I like creating design, templates, flyers, image/video editing
   <img align="center" alt="Logo-Photoshop" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 •
   <img align="center" alt="Logo-Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+
           
 <div style="display: inline_block"><br>
 <div style="display: inline_block"><br>
