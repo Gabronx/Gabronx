@@ -48,7 +48,7 @@ I like creating design, templates, flyers, image/video editing
 
           
   
-<center>  
+<div>  
   <a href="https://twitter.com/straingabo" target="_blank">
     <img align="left" alt="straingabo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
@@ -61,6 +61,6 @@ I like creating design, templates, flyers, image/video editing
   <a href="https://gmail.com/mailto:fabiogabriel.sonic@gmail.com" target="_blank">
     <img align="left" alt="straingabo | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-</center>
+</div>
    
   
