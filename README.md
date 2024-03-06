@@ -1,9 +1,5 @@
 ## 🤟 Hello! I'm Gabriel
 
-- 👀 I'm 20 years old 
-- 🧩 ADS Study
-- 🧑‍💻 I currently work with IT Support
-
 ## 🛠 *Tech Stack* 
 - 💻   PHP 
 - 🌐   HTML | CSS | JavaScript | Bootstrap 
