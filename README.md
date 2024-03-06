@@ -49,6 +49,9 @@
   <a href="https://gmail.com/mailto:fabiogabriel.sonic@gmail.com" target="_blank">
     <img align="left" alt="straingabo | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
+  <a href="https://www.behance.net/straingabo" target="_blank">
+    <img align="left" alt="straingabo | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+  </a>
 </div>
    
   
