@@ -1,4 +1,4 @@
-## Hi, my name is Gabriel, I'm a PHP developer and in my spare time I do some designs
+## Hello, my name is Gabriel, I'm a PHP developer and in my spare time I do some designs
 
 - 💻   PHP 
 - 🌐   HTML | CSS | JavaScript | Bootstrap 
