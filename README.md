@@ -32,7 +32,16 @@
 
 ## Design
 
-- I like creating design, templates, flyers, image/video editing
+I like creating design, templates, flyers, image/video editing
+
+## Design Stack
+- Adobe Photoshop
+- Adobe Illustrator
+- Figma
+- Behance
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
   
 <center>  
   <a href="https://twitter.com/straingabo" target="_blank">
