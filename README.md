@@ -1,4 +1,4 @@
-## 🤟 Hello! I'm Gabriel
+## Hi, my name is Gabriel, I'm a PHP developer and in my spare time I do some designs
 
 ## 🛠 *Tech Stack* 
 - 💻   PHP 
