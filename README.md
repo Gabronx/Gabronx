@@ -50,7 +50,7 @@ I like creating design, templates, flyers, image/video editing
 
           
   
-<div>  
+<div width="100%">  
   <a href="https://twitter.com/straingabo" target="_blank">
     <img align="left" alt="straingabo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
