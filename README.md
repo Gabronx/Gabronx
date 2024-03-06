@@ -23,7 +23,7 @@
 •
    <img align="center" alt="Logo-CSS3"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
-••••••••••••••••••••••••
+•••••••••••••
 
   <img align="center" alt="Logo-Behance" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
 •
