@@ -37,6 +37,8 @@ I like creating design, templates, flyers, image/video editing
 - Figma
 - Behance
 
+ <div style="display: inline_block"><br>
+
   <img align="center" alt="Logo-Behance" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
 •
   <img align="center" alt="Logo-Illustrator" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
