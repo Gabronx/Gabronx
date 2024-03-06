@@ -32,7 +32,7 @@
 
 ## Design
 
-I like creating design, templates, flyers, image/video editing
+- I like creating design, templates, flyers, image/video editing
   
 <center>  
   <a href="https://twitter.com/straingabo" target="_blank">
