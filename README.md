@@ -13,7 +13,7 @@
 
  <div style="display: inline_block"><br>
 
-   <img align="center" alt="Gabo-PHP"  width="76" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img align="center" alt="Gabo-PHP"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 •
    <img align="center" alt="Logo-Bootstrap"  width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
 •
