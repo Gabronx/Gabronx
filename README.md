@@ -2,7 +2,7 @@
 
 - 👀 I'm 20 years old 
 - 🧩 ADS Study
-- 🧑‍💻 I currently work with IT Support 
+- 🧑‍💻 I currently work with IT Support
 
 ## 🛠 Tech Stack 
 - 💻   PHP 
@@ -30,7 +30,7 @@
    
   
 
-##
+## Design
 
   
 <center>  
