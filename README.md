@@ -29,21 +29,21 @@
    <img align="center" alt="Logo-CSS3"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
    
   
-
-## Design
-
+<span style="font-size:larger;">Este texto terá um tamanho de fonte maior.</span>
 I like creating design, templates, flyers, image/video editing
 
-## Design Stack
 - Adobe Photoshop
 - Adobe Illustrator
 - Figma
 - Behance
 
-<img align="center" alt="Logo-Behance" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
-<img align="center" alt="Logo-Illustrator" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-<img align="center" alt="Logo-Photoshop" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img align="center" alt="Logo-Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="Logo-Behance" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
+•
+  <img align="center" alt="Logo-Illustrator" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+•
+  <img align="center" alt="Logo-Photoshop" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+•
+  <img align="center" alt="Logo-Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
 
           
