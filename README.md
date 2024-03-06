@@ -4,7 +4,7 @@
 - 🧩 ADS Study
 - 🧑‍💻 I currently work with IT Support
 
-## 🛠 Tech Stack 
+## 🛠 *Tech Stack* 
 - 💻   PHP 
 - 🌐   HTML | CSS | JavaScript | Bootstrap 
 - 🛢    MySQL | Xampp 
@@ -29,7 +29,7 @@
    <img align="center" alt="Logo-CSS3"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
    
   
-<span style="font-size:larger;">Este texto terá um tamanho de fonte maior.</span>
+## *Design*
 I like creating design, templates, flyers, image/video editing
 
 - Adobe Photoshop
